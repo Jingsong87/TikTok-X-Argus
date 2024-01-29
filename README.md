@@ -1,2 +1,7 @@
 # TikTok-X-Argus
-Reversing the Argus Algorithm X-Argus Api (also includes Mssdk)
+Argus Algorithm X-Argus Api
+
+
+# You can contact me
+# telegram: @jingsong87
+https://t.me/jingsong87
